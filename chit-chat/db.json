@@ -1,0 +1,149 @@
+{
+  "user": [
+    {
+      "uniqueId": "id8c4c85cea9cd5",
+      "username": "mistu maurya",
+      "email": "misty10@gmail.com",
+      "password": "test2345",
+      "reppassword": "test2345",
+      "imagePost": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1696573535/j7mjjupcc2o0mp3fwox0.jpg",
+      "bio": "hiii i am mistu",
+      "id": 5
+    },
+    {
+      "uniqueId": "id7fd7e60206b86",
+      "username": "piyush",
+      "email": "piyush01@gmail.com",
+      "password": "frist",
+      "reppassword": "frist",
+      "imagePost": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1696520728/pucttpbzcxgm6e0yu4c7.jpg",
+      "bio": "hey i am piyush ",
+      "id": 9
+    },
+    {
+      "uniqueId": "id60b6fc5aceb38",
+      "username": "sumit singh",
+      "email": "sumit16@gmail.com",
+      "password": "123456",
+      "reppassword": "123456",
+      "imagePost": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1696674359/aadajsckot1drqqdfn89.jpg",
+      "bio": "Hiii, \"I don't follow the crowd, I lead my own way.\" ",
+      "id": 10
+    },
+    {
+      "uniqueId": "idbbeb78d287a42",
+      "username": "Amit",
+      "email": "Amit02@gmail.com",
+      "password": "amit",
+      "reppassword": "amit",
+      "imagePost": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1696674583/gj6iudgrw5fbb5wuv8rg.jpg",
+      "bio": "Life is way too short for bad vibes.",
+      "id": 11
+    },
+    {
+      "uniqueId": "id959fbfc021972",
+      "username": "pragya",
+      "email": "pragya15@gmail.com",
+      "password": "pragya",
+      "reppassword": "pragya",
+      "imagePost": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1696674804/mitrglcnqlchr8zu2aob.jpg",
+      "bio": "Don’t chase people, attract them.",
+      "id": 12
+    },
+    {
+      "uniqueId": "id839d301bb5236",
+      "username": "mala",
+      "email": "mala2@gmail.com",
+      "password": "mala",
+      "reppassword": "mala",
+      "imagePost": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1697106358/ic1eg0mc7alf7hsmmclm.jpg",
+      "bio": "hiii i am mala singh, welcome to my world",
+      "id": 13
+    },
+    {
+      "uniqueId": "id9a979f0a754ba",
+      "username": "sweety",
+      "email": "swty2607@gmail.com",
+      "password": "sweet26",
+      "reppassword": "sweet26",
+      "imagePost": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1697184036/bvvccpcitichgfisltma.jpg",
+      "bio": "nothing special",
+      "id": 14
+    }
+  ],
+  "blogs": [
+    {
+      "title": "wedding",
+      "description": "happy moments",
+      "category": "wedding",
+      "imageUrl": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1696843806/qrlefej56ap7kq35owvc.jpg",
+      "date": "10/09/2023",
+      "username": "mistu maurya",
+      "userImagePost": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1696573535/j7mjjupcc2o0mp3fwox0.jpg",
+      "id": 6
+    },
+    {
+      "title": "photoholic",
+      "description": "wanna be a bride but not accepting to be a wife",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1696957969/hxo2mof3ywtq8tqmhemc.jpg",
+      "date": "10/10/2023",
+      "username": "srishty singh",
+      "userImagePost": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1696671352/hdojj6efvbtkkoyitehx.jpg",
+      "id": 9
+    },
+    {
+      "title": "my mom",
+      "description": "love",
+      "category": "Fashion",
+      "imageUrl": "",
+      "videoUrl": "http://res.cloudinary.com/dn8nk8q76/video/upload/v1697092841/vivrqnqa3vdzdtpa5hlc.mp4",
+      "date": "10/12/2023",
+      "username": "mistu maurya",
+      "userImagePost": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1696573535/j7mjjupcc2o0mp3fwox0.jpg",
+      "id": 11
+    },
+    {
+      "title": "abcd",
+      "description": "uw2hjwnshxwb",
+      "category": "",
+      "imageUrl": "http://res.cloudinary.com/dn8nk8q76/image/upload/v1697188572/bcb6kqbh0nloxgrejokr.jpg",
+      "videoUrl": "",
+      "date": "10/13/2023",
+      "username": "sweety",
+      "id": 12
+    }
+  ],
+  "friends": [
+    {
+      "userId": 5,
+      "friendId": 9,
+      "id": 1
+    },
+    {
+      "userId": 5,
+      "friendId": 10,
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "friendId": 13,
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "friendId": 12,
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "friendId": 10,
+      "id": 5
+    },
+{
+"userId": 9,
+"friendId": 10,
+"id":6
+}
+  ]
+}
